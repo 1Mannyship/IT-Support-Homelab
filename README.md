@@ -1,3 +1,3 @@
 # IT SUPPORT HOMELAB
-I am documenting my journey from IT Support to Cloud Engineering. I am making this repository to present my projects and experiments in my homelab. Building in public.
- 
+Objectives: 
+The objectives of this lab was to design and deploy a fully functional Active Directory Homelab mirroring a real life work environment and 
